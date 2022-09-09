@@ -1,0 +1,52 @@
+[
+    {
+        "extensions": "Better Commands",
+        "description": "highlight the phrase like 'todo' '!'"
+    },
+    {
+        "extensions": "Black Formatter",
+        "description": "Tide up python for great format"
+    },
+    {
+        "extensions": "Code Spell Checker",
+        "description": "check English spelling",
+    },
+    {
+        "extensions": "Color Highlight",
+        "description": "show color on hex code or rgb code"
+    },
+    {
+        "extensions": "Docker",
+        "description": "Docker Support"
+    },
+    {
+        "extensions": "Git graph",
+        "description": ""
+    },
+    {
+        "extensions": "GitLens",
+        "description": ""
+    },
+    {
+        "extensions": "Prettier-code formatter",
+        "description": ""
+    },
+    {
+        "extensions": "SVG",
+        "description": ""
+    },
+    // optional
+    {
+        "extensions": "Ejs Language  Support",
+        "description": "Ejs support"
+    },
+    {
+        "extensions": "Svelte for vs code",
+        "description": ""
+    },
+    {
+        "extensions": "Remote - SSH",
+        "description": ""
+    },
+
+]
